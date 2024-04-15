@@ -1,0 +1,23 @@
+
+.title{
+    color:rgb(0, 0, 0);
+    text-shadow: 4px 4px 4px rgb(148, 13, 13);
+    margin-top: 10px;
+    font-size: 24px;
+}
+.masthead{
+    background-size: cover;
+    height: 97vh;
+    background-size:cover;
+    background-position: center center;
+    min-height: 100;
+    background-repeat: no-repeat;
+    width: 98.9%;
+}
+.btn {
+    margin: 5px;
+
+}
+
+
+
