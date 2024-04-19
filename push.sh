@@ -1,3 +1,5 @@
+git remote add origin https://github.com/NexteerP78/pdf-qr
+
 git config --global --add safe.directory E:/NexteerApp/pdf-qr
 
 git add .
