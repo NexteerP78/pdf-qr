@@ -4,6 +4,6 @@ git add .
 
 git commit -m "new version"
 
-git push
+git branch -m main
 
-exit
+git push -u origin main
