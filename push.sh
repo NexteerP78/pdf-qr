@@ -5,6 +5,4 @@ git add .
 
 git commit -m "new version"
 
-git branch -m main
-
 git push
